@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "co2ampel",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "cpp"
+		}
+	}
+}
